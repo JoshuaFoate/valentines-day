@@ -5,12 +5,8 @@ body {
     justify-content: center;
 }
 
-img {
+#cat-gif {
     max-width: 200px;
-}
-
-.sad-cat-gif {
-    display: none;
 }
 
 .yes-no-buttons {
@@ -31,4 +27,6 @@ img {
     margin: 15px;
     min-width: 100px;
     min-height: 50px;
+    max-width: 100px;
+    max-height: 50px;
 }
